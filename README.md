@@ -59,9 +59,19 @@ extract_text(img) → Retrieves the hidden message from the image
 Tkinter GUI Elements → Provides an interactive interface for users
 ```
 
-image_encryptor.py
 
-A simple image encryption and decryption tool that demonstrates pixel-level manipulation.
+
+
+
+
+
+
+
+
+
+# script.py
+
+## A simple image encryption and decryption tool that work in terminal that demonstrates pixel-level manipulation.
 ### This tool uses two basic operations:
   1. Arithmetic transformation: Add (or subtract) an integer key to each pixel's color channels (mod 256).
   2. Pixel swapping: Mirror the image by flipping it horizontally and vertically.
