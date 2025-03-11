@@ -1,4 +1,4 @@
-# PRODIGY_CS_02 - Image Stego Encryptor
+#Image Stego Encryptor
 ### A GUI-based image encryption tool that demonstrates pixel-level manipulation to:
 
 Encrypt and decrypt an image using arithmetic transformations and mirror flipping.
